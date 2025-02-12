@@ -1,3 +1,3 @@
 Link
 
-https://rian010.github.io/yan/
+https://rian010.github.io/yan-web/
